@@ -1,1 +1,1 @@
-this is line specific for hot-fix branch
+this is line specific for only develop branch and cannot be cheanged every time there is a merge
