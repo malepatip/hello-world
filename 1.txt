@@ -1,2 +1,1 @@
-
-this is a text that is specfic to develop branch
+this is line specific for hot-fix branch
